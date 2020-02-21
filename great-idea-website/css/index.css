@@ -111,6 +111,7 @@ h1{
 	text-align: center;
 	border: 1px solid;
 	padding: 6px;
+	text-decoration: none;
 }
 
 .image{
@@ -157,7 +158,11 @@ h1{
 	width: 15%;
 	margin-left: 3%;
 }
-
+hr{
+	border: solid 1px black;
+	margin-left: 10%;
+	margin-right: 10%;
+}
 .contact{
 	margin-left: 20%;
 	margin-bottom: 5%;
